@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Task1
+namespace Task2
 {
-    interface IOperation
+    public interface IOperation
     {
         string Sum(int val1, int val2);
     }
